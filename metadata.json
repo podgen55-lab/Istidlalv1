@@ -1,0 +1,6 @@
+{
+  "name": "استدلال | ISTIDLAL",
+  "description": "منصة الأستاذ الذكي لمادة علوم الطبيعة والحياة للبكالوريا الجزائرية - توجيه سقراطي وتصحيح معياري وذاكرة تعليمية مستمرة - إعداد: فنكوح عبد الرحيم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
